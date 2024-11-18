@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    ' Filmes',
+    'Qual o melhor filme da Disney?',
+    'Enrolados'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Filmes',
+    'Qual o sonho de Rapunzel?',
+    'Ir para o reino asistir o vestival de luzes'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Filmes',
+    'Qual a personagem principal desse filme?',
+    'Rapunzel'
 )
 
 criaCartao(
-    'Lingua inglesa'
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Conhecimentos Gerais'
+    'Quem são os pais verdadeiros de Rapunzel?',
+    'A raiha e o rei'
 )
